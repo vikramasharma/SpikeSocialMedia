@@ -1,11 +1,4 @@
 # NGHQ Spike
 
-#### Requirements
-- Yarn 1.x
-- [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+#Used Redux and firebase with typescript to create a social media application where users can create accounts, setup profiles with pictures, post, and interact with other user profiles
 
-#### Startup
-- yarn install
-- git checkout -b newBranchName (reference ./.husky/validate-branch script for branch naming convention)
-- open react native debugger at new port 19000
-- yarn start -> open ios sim -> open sim dev menu -> choose debug
